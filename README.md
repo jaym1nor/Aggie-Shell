@@ -5,9 +5,11 @@ A lightweight Unix-style shell implemented in **C++**. It supports execution of 
 ---
 
 ## 📁 Project Structure
-
+```
+.
 ├── ash.cpp # Source code for the Aggie Shell
 └── README.md # Project documentation
+```
 
 ---
 
