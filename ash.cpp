@@ -1,13 +1,11 @@
 /*
-Name: Jayden Minor
-Date: 4/10-13/2025
-Class: Comp 350 Section 1
-Program: ash (Aggie Shell)
--- Basic shell [Checkpoint 3]
-   Updated executeCommand and processCommand to allow
-   redirection and ability to execute cmds w/ or w/o params
-   # added some error handling for redirection cmds (personal addition /  bonus)
-*/
+ * Aggie Shell (ash)
+ * Author: Jayden Minor
+ * Date: April 2025
+ *
+ * A simple Unix-style shell implemented in C++ supporting
+ * command execution, output redirection, and path configuration.
+ */
 #include <iostream>
 #include <string>
 #include <vector>
